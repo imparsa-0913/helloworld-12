@@ -1,1 +1,1 @@
-FROM ghcr.io/mhsanaei/3x-ui:latest
+FROM https://github.com/imparsa-0913/helloworld-source
